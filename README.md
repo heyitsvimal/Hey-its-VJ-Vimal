@@ -1,8 +1,8 @@
 # <h2 align="centre"><i><b>💖TECHNO MINDZ BOT💝</i></b></h2>
 
-### <b>COMMAN BOT FOR ALL MY TECHNOMINDZ SUBSCRIBERS With Pm Feature and 4GB Files Supporting Working One</b>
+### <b>HEY ITS VIMAL SUBSCRIBERS With Pm Feature and 4GB Files Supporting Working One</b>
 
-<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="500"></a></p>
+<p align="center"><a href="https://t.me/technomindzchat"><img src="" width="500"></a></p>
 
 # Introduction
 
@@ -23,7 +23,7 @@
 ## Refer Image Before Deploying 
 ## ⚠️Fork The Repo And Deploy Or Unwanted Problems May Occur...
 ## After Forking Before Deplying Change The link of your github HERE Below Shown In The Picture 👇👇👇
-<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/7dfbf86b1da43cc40208f.jpg" width="800"></a></p>
+<p align="center"><a href=""><img src="" width="800"></a></p>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
@@ -97,5 +97,5 @@ MADE BY @TmMainChannel
 ## Thanks to 
 
  - [EvaMaria](https://github.com/EvamariaTG/EvaMaria)
- - Thanks To [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/CommonBot_For_All) And [AutoFilterBoT](https://github.com/TechnoMindz/CommonBot_For_All)
+ - Thanks To [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://github.com/heyitsvimal/Hey-its-VJ-Vimal) for Their Awesome [Unlimited Filter Bot](https://github.com/heyitsvimal/Hey-its-VJ-Vimal) And [AutoFilterBoT](https://github.com/heyitsvimal/Hey-its-VJ-Vimal)
  - Thanks To All Of My Subscribers😊
